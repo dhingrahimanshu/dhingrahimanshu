@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 
 <h1 align="center">Hi 👋, I'm himanshu dhingra.</h1>
-<h3 align="center">Specialist on Codeforces | 4⭐ CodeChef | TOP 5% LeetCode</h3>
+<h3 align="center">Specialist on Codeforces | 4⭐ CodeChef | TOP 3% LeetCode</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhingrahimanshu&label=Profile%20views&color=0e75b6&style=flat" alt="dhingrahimanshu" /> </p>
 
